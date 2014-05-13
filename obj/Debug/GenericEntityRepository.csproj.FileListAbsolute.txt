@@ -1,0 +1,10 @@
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\bin\Debug\GenericEntityRepository.dll.config
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\bin\Debug\GenericEntityRepository.dll
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\bin\Debug\GenericEntityRepository.pdb
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\bin\Debug\EntityFramework.dll
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\bin\Debug\EntityFramework.xml
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\obj\Debug\GenericEntityRepository.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\obj\Debug\GenericEntityRepository.dll
+C:\Users\Aaron\Documents\GitHub\GenericEntityRepository\obj\Debug\GenericEntityRepository.pdb
